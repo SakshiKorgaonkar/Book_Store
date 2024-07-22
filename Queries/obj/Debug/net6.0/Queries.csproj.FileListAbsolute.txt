@@ -1,0 +1,12 @@
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Queries\bin\Debug\net6.0\Queries.deps.json
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Queries\bin\Debug\net6.0\Queries.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Queries\bin\Debug\net6.0\Queries.pdb
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Queries\obj\Debug\net6.0\Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Queries\obj\Debug\net6.0\Queries.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Queries\obj\Debug\net6.0\Queries.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Queries\obj\Debug\net6.0\Queries.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Queries\obj\Debug\net6.0\Queries.sourcelink.json
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Queries\obj\Debug\net6.0\Queries.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Queries\obj\Debug\net6.0\refint\Queries.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Queries\obj\Debug\net6.0\Queries.pdb
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Queries\obj\Debug\net6.0\ref\Queries.dll

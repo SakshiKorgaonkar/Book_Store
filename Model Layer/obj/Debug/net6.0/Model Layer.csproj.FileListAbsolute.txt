@@ -1,0 +1,12 @@
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Model Layer\bin\Debug\net6.0\Model Layer.deps.json
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Model Layer\bin\Debug\net6.0\Model Layer.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Model Layer\bin\Debug\net6.0\Model Layer.pdb
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Model Layer\obj\Debug\net6.0\Model Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Model Layer\obj\Debug\net6.0\Model Layer.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Model Layer\obj\Debug\net6.0\Model Layer.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Model Layer\obj\Debug\net6.0\Model Layer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Model Layer\obj\Debug\net6.0\Model Layer.sourcelink.json
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Model Layer\obj\Debug\net6.0\Model Layer.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Model Layer\obj\Debug\net6.0\refint\Model Layer.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Model Layer\obj\Debug\net6.0\Model Layer.pdb
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Model Layer\obj\Debug\net6.0\ref\Model Layer.dll

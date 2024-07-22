@@ -1,0 +1,20 @@
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\bin\Debug\net6.0\Handlers.deps.json
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\bin\Debug\net6.0\Handlers.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\bin\Debug\net6.0\Handlers.pdb
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\bin\Debug\net6.0\Model Layer.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\bin\Debug\net6.0\Repository Layer.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\bin\Debug\net6.0\Repository Layer.pdb
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\bin\Debug\net6.0\Model Layer.pdb
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\obj\Debug\net6.0\Handlers.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\obj\Debug\net6.0\Handlers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\obj\Debug\net6.0\Handlers.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\obj\Debug\net6.0\Handlers.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\obj\Debug\net6.0\Handlers.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\obj\Debug\net6.0\Handlers.sourcelink.json
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\obj\Debug\net6.0\Handlers.csproj.Up2Date
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\obj\Debug\net6.0\Handlers.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\obj\Debug\net6.0\refint\Handlers.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\obj\Debug\net6.0\Handlers.pdb
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\obj\Debug\net6.0\ref\Handlers.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\bin\Debug\net6.0\Commands.dll
+C:\Users\DELL\OneDrive - HERE Global B.V\Desktop\CDAC\BridgeLabz_Assignment1\Book Store\Handlers\bin\Debug\net6.0\Commands.pdb
